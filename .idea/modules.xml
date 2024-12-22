@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" filepath="$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSets/HashSets.iml" filepath="$PROJECT_DIR$/HashSets/HashSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode Problems.iml" filepath="$PROJECT_DIR$/LeetCode Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode_Contest/LeetCode_Contest.iml" filepath="$PROJECT_DIR$/LeetCode_Contest/LeetCode_Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode_Contest/weekly_contest_425/weekly_contest_425.iml" filepath="$PROJECT_DIR$/LeetCode_Contest/weekly_contest_425/weekly_contest_425.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode_Contest/weekly_contest_426/weekly_contest_426.iml" filepath="$PROJECT_DIR$/LeetCode_Contest/weekly_contest_426/weekly_contest_426.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode_Contest/weekly_contest_428/weekly_contest_428.iml" filepath="$PROJECT_DIR$/LeetCode_Contest/weekly_contest_428/weekly_contest_428.iml" />
+    </modules>
+  </component>
+</project>
